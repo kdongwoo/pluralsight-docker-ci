@@ -13,7 +13,7 @@ dependencies:
 
 deployment:
   dockerhub:
-    branch:master
+    branch: master
     commands:
       - $DOCKER_HUB_TRIGGER
 
